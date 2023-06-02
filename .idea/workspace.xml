@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a1eb6be-1423-4f30-918b-8ed539fbe3b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/discover.exercise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/discover.exercise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discover.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/discover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/api-client.exercise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/api-client.exercise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/api-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/api-client.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "exercises/03-data-fetching",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/Users/tanettrimas/dev/learning/bookshelf/node_modules/react-scripts",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="renders the app" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/index.js" />
+      <test-names>
+        <test-name value="renders the app" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders the app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
