@@ -10,7 +10,6 @@ test('renders the app', () => {
     reactRoot = require('..').root
   })
 
-  screen.getByTitle('Bookshelf')
   screen.getByRole('heading', {name: /Bookshelf/i})
   screen.getByRole('button', {name: /Login/i})
   screen.getByRole('button', {name: /Register/i})
